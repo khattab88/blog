@@ -37,7 +37,7 @@
   - asp.net web api
   
 - (expresso cms 2)
-- asp.net, mvc,
+  - asp.net, mvc,
   
 - (expresso app 2 | spa)
   - angular
