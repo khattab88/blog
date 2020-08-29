@@ -16,15 +16,15 @@
     3. css the complete guide 2020, incl. flexbox, grid & sass (udemy | maximillian schwarzmuller)
     4. advanced css and sass: flexbox, grid, animations and more (udemy | jonas schmedtmann)
     
-  3. javascript
+ 3. javascript
     1. the complete javascript course 2020: build real projects (udemy | jonas schmedtmann)
     2. javascript the complete guide 2020: beginner + advanced (udemy | maximillian schwarzmuller)
     
-   4. node.js
+ 4. node.js
     1. node.js, express, mongodb and more: the complete bootcamp 2020 (udemy | jonas schmedtmann)
     2. node.js the complete guide: mvc, rest apis, graphql, deno (udemy | maximillian schwarzmuller)
     
-   5. bootstrap
+ 5. bootstrap
     1. the bootstrap 4 bootcamp (udemy | colt steele)
     
     
