@@ -10,7 +10,7 @@
   - mongodb, mongoose
   
 - (exprsso cms)
-  - cms
+  - bootstrap
   - ssr using pug
  
 - (problem solving)
@@ -48,7 +48,7 @@
 - ddd
 - microservices, messaging
 - devops, ci/cd, ....
-- containers, kubernetes, ....
+- containers, docker, kubernetes, ....
 - cloud
 - caching, search, monitoring, logging
 
