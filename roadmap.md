@@ -46,7 +46,7 @@
 ------------------------------------------------------------------
 
 - ddd
-- microservices
+- microservices, messaging
 - devops, ci/cd, ....
 - containers, kubernetes, ....
 - cloud
