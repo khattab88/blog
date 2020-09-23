@@ -5,7 +5,7 @@
 
 2- clone forked repository 
 
-   > git clone <forked_repo>
+    > git clone <forked_repo>
    
 3- check current configured remote repository for your fork
 
