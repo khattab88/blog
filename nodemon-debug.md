@@ -1,0 +1,23 @@
+/* package.json */
+"debug": "set NODE_ENV=development&& set APP_ENV=development&& nodemon --inspect server.js",
+
+
+/* launch.json */
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
+  // https://github.com/Microsoft/vscode-recipes/tree/master/nodemon
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Node: Nodemon",
+      "processId": "${command:PickProcess}",
+      "restart": true,
+      "protocol": "inspector"
+    }
+  ]
+}
